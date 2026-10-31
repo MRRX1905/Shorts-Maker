@@ -1,0 +1,6 @@
+{
+  "name": "Shorts Maker",
+  "description": "Web editor untuk membuat video tren Top 5 otomatis dari 5 klip video vertikal dengan preview realtime dan render MP4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
